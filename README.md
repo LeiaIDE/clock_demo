@@ -1,3 +1,3 @@
 # clock_demo
 
-<leia demo app>
+< leia_demo_app >
